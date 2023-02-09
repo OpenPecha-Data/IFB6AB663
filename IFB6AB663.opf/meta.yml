@@ -1,0 +1,16 @@
+id: IFB6AB663
+default_language: en
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 14:37:40.678923
+last_modified: 2023-02-09 14:37:40.679030
+source_metadata:
+  title: Vimalakīrtinirdeśa
+  language: en
+bases:
+  022F:
+    base_file: 022F.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
